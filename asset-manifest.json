@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HokageHEL/bday_yana/static/css/main.76d10644.css",
+    "main.js": "/HokageHEL/bday_yana/static/js/main.2f7402ee.js",
+    "static/js/453.d414f5b5.chunk.js": "/HokageHEL/bday_yana/static/js/453.d414f5b5.chunk.js",
+    "static/media/frog.png": "/HokageHEL/bday_yana/static/media/frog.8f69becc30753fb145ce.png",
+    "static/media/qua.mp3": "/HokageHEL/bday_yana/static/media/qua.50c37a1fe7399f05a19a.mp3",
+    "index.html": "/HokageHEL/bday_yana/index.html",
+    "main.76d10644.css.map": "/HokageHEL/bday_yana/static/css/main.76d10644.css.map",
+    "main.2f7402ee.js.map": "/HokageHEL/bday_yana/static/js/main.2f7402ee.js.map",
+    "453.d414f5b5.chunk.js.map": "/HokageHEL/bday_yana/static/js/453.d414f5b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d10644.css",
+    "static/js/main.2f7402ee.js"
+  ]
+}
